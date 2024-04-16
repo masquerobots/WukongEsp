@@ -1,0 +1,32 @@
+{
+    "name": "wuKong",
+    "version": "1.5.3",
+    "description": "micro:bit multifunctional expansion board WuKong",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:elecfreaks/pxt-neopixel",
+        "microphone": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "_locales/zh/wuKong-jsdoc-strings.json",
+        "_locales/zh/wuKong-strings.json",
+        "_locales/cs/wuKong-jsdoc-strings.json",
+        "_locales/cs/wuKong-strings.json",
+        "_locales/es-ES/wuKong-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "4.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
