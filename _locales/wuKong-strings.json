@@ -38,7 +38,7 @@
   "wuKong.mecanumWheel|block": "Set Mecanum wheel|Left Front %LeftFront|Left Rear %LeftRear|Right Front %RightFront|Right Rear %RightRear",
   "wuKong.setAllMotor|block": "set motor M1 speed %m1speed M2 speed %m2speed",
   "wuKong.setLightMode|block": "Set light mode to %mode",
-  "wuKong.setMotorSpeed|block": "Set motor %motor speed to %speed",
+  "wuKong.setMotorSpeed|block": "Set motor %motor speeed to %speed",
   "wuKong.setServoAngle|block": "Set servo %servo angel to %angle",
   "wuKong.stopAllMotor|block": "Stop all motor",
   "wuKong.stopMotor|block": "Stop motor %motor",
